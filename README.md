@@ -1,4 +1,4 @@
-# EX NO: Cloud-account-set-up-and-services
+# EXP NO - 1 : Cloud-account-set-up-and-services
 ~~~
 Name : SRI SAI SARAN G
 
